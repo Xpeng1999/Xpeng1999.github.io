@@ -38,7 +38,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc4.png" alt="Project Image" style="width: 300px; height: 200px; margin-right: 20px; height: auto;">
+  <img src="https://Xpeng1999.github.io/images/toc4.png" alt="Project Image" style="width: 300px; height: 200px; margin-right: 20px; object-fit: fill;">
   <div>
     <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
       Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
