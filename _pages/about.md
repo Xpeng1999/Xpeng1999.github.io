@@ -26,7 +26,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 ## Projects
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc1.png" alt="Publication Image" style="width: 250px; height: 300px; margin-right: 20px; object-fit: cover;">
+  <img src="https://Xpeng1999.github.io/images/toc1.png" alt="Publication Image" style="width: 300px; margin-right: 20px; height: auto;">
   <div>
     <h3><a href="https://doi.org/10.1016/j.csbj.2024.09.002" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Practical guidelines for cell segmentation models under optical aberrations in microscopy
@@ -38,7 +38,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc4.png" alt="Project Image" style="width: 250px; height: 300px; margin-right: 20px; object-fit: cover;">
+  <img src="https://Xpeng1999.github.io/images/toc4.png" alt="Project Image" style="width: 300px; margin-right: 20px; height: auto;">
   <div>
     <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
       Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
@@ -49,7 +49,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Project Image" style="width: 250px; height: 300px; margin-right: 20px; object-fit: cover;">
+  <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Project Image" style="width: 300px; margin-right: 20px; height: auto;">
   <div>
     <h3><a href="https://arxiv.org/abs/2404.00549" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Diagnosis of Pediatric Pneumonia Using Explainable Convolutional Neural Networks (CNN)
@@ -61,7 +61,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc3.png" alt="Project Image" style="width: 250px; height: 300px; margin-right: 20px; object-fit: cover;">
+  <img src="https://Xpeng1999.github.io/images/toc3.png" alt="Project Image" style="width: 300px; margin-right: 20px; height: auto;">
   <div>
     <h3><a href="https://link.springer.com/article/10.1007/s10812-021-01220-5" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Intelligent proximate analysis of coal based on near-infrared spectroscopy
