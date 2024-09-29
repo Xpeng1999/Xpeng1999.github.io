@@ -18,6 +18,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
     <strong>Sep 9, 2024</strong> 
     <span style="margin-left: 20px;">Our paper was published online 🥳</span>
   </li>
+</ul>
 
 ## Projects
 
