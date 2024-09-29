@@ -61,7 +61,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://Xpeng1999.github.io/images/toc3.png" alt="Project Image" style="width: 300px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="https://Xpeng1999.github.io/images/" alt="Project Image" style="width: 300px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div>
     <h3><a href="https://link.springer.com/article/10.1007/s10812-021-01220-5" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Intelligent proximate analysis of coal based on near-infrared spectroscopy
