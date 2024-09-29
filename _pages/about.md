@@ -12,7 +12,7 @@ I am a master's student of Biomedical Engineering at Tsinghua University, advise
 Prior to that, I completed my bachelor’s in Electronic and Information Engineering at China University of Mining and Technology, where I worked with 
 <a href="https://faculty.cumt.edu.cn/LM123456789101112/zh_CN/index/167772/list/" style="color: rgb(102, 8, 116);">Prof.Meng Lei</a>.
 
-My current research interests include Biophotonics, Medical Imaging and Medical AI. Specifically, I am interested in (a) integrating an optical system for fundus imaging and refractive testing and (b) correcting microscopy aberrations of cell images by utilizing conditional diffusion model. Moreover, I am also focusing on (c) eliminating microscopy aberration using conditional diffusion models.
+My current research interests include Bio photonics, Medical Imaging and Medical AI. Specifically, I am interested in (a) integrating an optical system for fundus imaging and refractive testing and (b) correcting microscopy aberrations of cell images by utilizing conditional diffusion model. Moreover, I am also focusing on (c) eliminating microscopy aberration using conditional diffusion models.
 
 ## News
 
