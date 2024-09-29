@@ -40,7 +40,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
     Diagnosis of Pediatric Pneumonia Using Explainable Convolutional Neural Networks (CNN)
     </a></h3>
     <p>Jiaming Deng*, Jiagi Yang*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Zhiwei Ye, et al.</p>
-    <p><em>Applied Physics B (2024)</em></p>
+    <p><em>Arxiv preprint (2024)</em></p>
     <a href="https://arxiv.org/abs/2404.00549" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px; margin-right: 10px;">Preprint</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ My current research interests include Bio photonics, Medical Imaging and Medical
     Intelligent proximate analysis of coal based on near-infrared spectroscopy
     </a></h3>
     <p>Weinan Liu, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng</span></strong>, Xiaoyu Liu, et al.</p>
-    <p><em>IEEE Transactions on Medical Imaging (2024)</em></p>
+    <p><em>Journal of Applied Spectroscopy (2021)</em></p>
     <a href="https://link.springer.com/article/10.1007/s10812-021-01220-5" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px; margin-right: 10px;">Publication</a>
   </div>
 </div>
