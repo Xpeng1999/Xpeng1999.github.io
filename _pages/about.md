@@ -60,7 +60,17 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   </div>
 </div>
 
-<!-- 第一张图片及其描述 -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
+    <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
+      Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
+    </h3>
+    <p>Jiaju Chen*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Yiwei Zhang*, et al.</p>
+    <p><em>In progress</em></p>
+    <p><em>摘要</em></p>
+    </div>
+
+  <!-- 第一张图片及其描述 -->
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="https://Xpeng1999.github.io/images/paper2_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
   <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
@@ -82,6 +92,17 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
     Ocular imaging system setup and experimental results of fundus imaging
   </div>
+</div>
+
+    <!-- 第二张图片 -->
+    <div style="text-align: center;">
+      <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Publication Image" style="width: 500px; height: auto;">
+      <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+        Experimental results of fundus imaging
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 
 <div style="margin-bottom: 40px;">
