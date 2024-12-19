@@ -39,21 +39,21 @@ My long-term academic goal is capitalizing on combing optics and computing to de
     </div>
 <div style="margin-bottom: 40px; text-align: center;">
   <div style="display: inline-block; text-align: center;">
-    <img src="https://Xpeng1999.github.io/images/paper1_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper1_image1.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       The process diagram for generating an aberrated cell image dataset by inputting microscopic parameters and Zernike polynomials information
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
-    <img src="https://Xpeng1999.github.io/images/paper1_image2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper1_image2.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       Cellpose2.0 toolbox robustness evaluation of mixed aberrations, taking 4-8 orders aberration as an example.
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
-    <img src="https://Xpeng1999.github.io/images/paper1_image3.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper1_image3.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       The architecture of PLCM
     </div>
@@ -70,11 +70,16 @@ My long-term academic goal is capitalizing on combing optics and computing to de
     <p><em>摘要</em></p>
     </div>
 
-  <!-- 第一张图片及其描述 -->
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="https://Xpeng1999.github.io/images/paper2_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
-  <div style="margin-top: 14px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+  <img src="https://Xpeng1999.github.io/images/paper2_image1.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
+  <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
     Structure of retina fundus imaging and ocular refractive index two-in-one optical system
+  </div>
+</div>
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="https://Xpeng1999.github.io/images/funds_image.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
+  <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
+    Funds image captured by two-in-one optical system
   </div>
 </div>
 
@@ -89,7 +94,7 @@ My long-term academic goal is capitalizing on combing optics and computing to de
     <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Experimental Results of Fundus Imaging" style="width: 300px; height: auto;">
   </div>
   <!-- 文字说明 -->
-  <div style="margin-top: 14px; font-family: 'Times New Roman', Times, serif;">
+  <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
     Ocular imaging system setup and experimental results of fundus imaging
   </div>
 </div>
@@ -108,21 +113,21 @@ My long-term academic goal is capitalizing on combing optics and computing to de
     </div>
 <div style="margin-bottom: 40px; text-align: center;">
   <div style="display: inline-block; text-align: center;">
-    <img src="https://Xpeng1999.github.io/images/paper3_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper3_image1.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 14px; font-family: 'Times New Roman', Times, serif;">
       The feature visualization results
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
-    <img src="https://Xpeng1999.github.io/images/paper3_image2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper3_image2.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       Comparison of Score-CAM results and radiologists' annotations. The first and third rows show the CXR annotations for MPP lesions, while the second and fourth rows display the corresponding Score-CAM results.
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
-    <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       PneumoniaApp demo user interface example
     </div>
@@ -142,7 +147,7 @@ My long-term academic goal is capitalizing on combing optics and computing to de
       <a href="https://Xpeng1999.github.io/files/paper2.pdf" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">PDF</a>
     </div>
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
-    <img src="https://Xpeng1999.github.io/images/paper4_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper4_image1.png" alt="Publication Image" style="width: 500px; margin-top: 20px; height: auto;">
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif;">
       Dataset perspective: a: spectrum of coal samples (features); b: ranking parameters (labels)
     </div>
