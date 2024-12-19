@@ -60,20 +60,28 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
-    <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
-      Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
-    </h3>
-    <p>Jiaju Chen*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Yiwei Zhang*, et al.</p>
-    <p><em>In progress</em></p>
-    <p><em>摘要</em></p>
-    <div style="display: flex; gap: 10px;">
-      <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">PDF</a>
-      <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Code</a>
-    </div>
+<!-- 第一张图片及其描述 -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="https://Xpeng1999.github.io/images/paper2_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+  <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+    Structure of retina fundus imaging and ocular refractive index two-in-one optical system
   </div>
-  <img src="https://Xpeng1999.github.io/images/toc4.png" alt="Project Image" style="width: 300px; margin-top: 20px; height: auto;">
+</div>
+
+<!-- 两张图片并排显示，共用一个文字说明 -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <!-- 图片容器 -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- 第一张图片 -->
+    <img src="https://Xpeng1999.github.io/images/paper2_image2.png" alt="Ocular Imaging System Setup" style="width: 500px; height: auto;">
+
+    <!-- 第二张图片 -->
+    <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Experimental Results of Fundus Imaging" style="width: 500px; height: auto;">
+  </div>
+  <!-- 文字说明 -->
+  <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+    Ocular imaging system setup and experimental results of fundus imaging
+  </div>
 </div>
 
 <div style="margin-bottom: 40px;">
