@@ -38,17 +38,17 @@ My long-term academic goal is capitalizing on combing optics and computing to de
       <a href="https://github.com/Xpeng1999/Cell-Segmentation-Robustness" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Code</a>
     </div>
 <div style="margin-bottom: 40px;">
-  <img src="https://Xpeng1999.github.io/images/paper1_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+  <img src="https://Xpeng1999.github.io/images/paper1_image1.png" alt="Publication Image" style="width: 800px; margin-top: 20px; height: auto;">
   <div style="text-align: center; margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
     The process diagram for generating an aberrated cell image dataset by inputting microscopic parameters and Zernike polynomials information
   </div>
 
-  <img src="https://Xpeng1999.github.io/images/paper1_image2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+  <img src="https://Xpeng1999.github.io/images/paper1_image2.png" alt="Publication Image" style="width: 800px; margin-top: 20px; height: auto;">
   <div style="text-align: center; margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
     Cellpose2.0 toolbox robustness evaluation of mixed aberrations, taking 4-8 orders aberration as an example.
   </div>
 
-  <img src="https://Xpeng1999.github.io/images/paper1_image3.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+  <img src="https://Xpeng1999.github.io/images/paper1_image3.png" alt="Publication Image" style="width: 800px; margin-top: 20px; height: auto;">
   <div style="text-align: center; margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
     The architecture of PLCM
   </div>
