@@ -67,7 +67,7 @@ My long-term academic goal is capitalizing on combing optics and computing to de
     </h3>
     <p>Jiaju Chen*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Yiwei Zhang*, et al.</p>
     <p><em>In progress</em></p>
-    <p><em>摘要：本项目正在开发一种集成设备，能够进行眼底成像和屈光不正检测，旨在为近视筛查提供更高效的解决方案。</em></p>
+    <p><em>摘要</em></p>
     <div style="display: flex; gap: 10px;">
       <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">PDF</a>
       <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Code</a>
