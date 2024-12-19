@@ -115,7 +115,7 @@ My long-term academic goal is capitalizing on combing optics and computing to de
       </div>
     </div>
     <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
-      Ocular imaging system setup and experimental results of fundus imaging
+      Device picture of optical system
     </div>
   </div>
 </div>
