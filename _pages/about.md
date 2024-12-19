@@ -40,21 +40,21 @@ My long-term academic goal is capitalizing on combing optics and computing to de
 <div style="margin-bottom: 40px; text-align: center;">
   <div style="display: inline-block; text-align: center;">
     <img src="https://Xpeng1999.github.io/images/paper1_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
-    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
       The process diagram for generating an aberrated cell image dataset by inputting microscopic parameters and Zernike polynomials information
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
     <img src="https://Xpeng1999.github.io/images/paper1_image2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
-    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
       Cellpose2.0 toolbox robustness evaluation of mixed aberrations, taking 4-8 orders aberration as an example.
     </div>
   </div>
 
   <div style="display: inline-block; text-align: center; margin-top: 40px;">
     <img src="https://Xpeng1999.github.io/images/paper1_image3.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
-    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
       The architecture of PLCM
     </div>
   </div>
@@ -83,10 +83,10 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   <!-- 图片容器 -->
   <div style="display: flex; justify-content: center; gap: 20px;">
     <!-- 第一张图片 -->
-    <img src="https://Xpeng1999.github.io/images/paper2_image2.png" alt="Ocular Imaging System Setup" style="width: 500px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper2_image2.png" alt="Ocular Imaging System Setup" style="width: 300px; height: auto;">
 
     <!-- 第二张图片 -->
-    <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Experimental Results of Fundus Imaging" style="width: 500px; height: auto;">
+    <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Experimental Results of Fundus Imaging" style="width: 300px; height: auto;">
   </div>
   <!-- 文字说明 -->
   <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
@@ -94,45 +94,54 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   </div>
 </div>
 
-    <!-- 第二张图片 -->
-    <div style="text-align: center;">
-      <img src="https://Xpeng1999.github.io/images/paper2_image3.png" alt="Publication Image" style="width: 500px; height: auto;">
-      <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
-        Experimental results of fundus imaging
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
 <div style="margin-bottom: 40px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
-    <h3><a href="https://arxiv.org/abs/2404.00549" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
+    <h3><a href="files/Convolutional neural networks for rapid diagnosis and lesion detection of pediatric mycoplasma pneumoniae pneumonia using chest X-rays.pdf" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Diagnosis of Pediatric Pneumonia Using Explainable Convolutional Neural Networks (CNN)
     </a></h3>
-    <p>Jiaming Deng*, Jiagi Yang*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Zhiwei Ye, et al.</p>
-    <p><em>Arxiv preprint (2024)</em></p>
-    <p><em>摘要：该研究利用可解释的卷积神经网络（CNN）诊断儿童肺炎，旨在提升诊断的准确性和可解释性。</em></p>
+    <p>Jiaming Deng*, Jiagi Yang*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Dongmei Yu*, et al.</p>
+    <p><em>Preprint (2024)</em></p>
+    <p><em>Mycoplasma pneumoniae pneumonia (MPP) presents significant diagnostic challenges in pediatric healthcare, particularly in regions like China that with large population density. To ease the burden on radiologists, we utilized convolutional neural networks (CNN), structured as state-of-the-art computational efficient architecture, for faster MPP detection and pediatric pneumonia diagnosis. Our model, trained on 3,345 chest X-ray (CXR) images, including 833 MPP cases, distinguishes MPP from viral, bacterial, and normal cases. The model achieved an accuracy of 88.20% and an AUROC of 0.9218 across all classes, with a specific accuracy of 97.64% for MPP. We also integrated explainability techniques to help radiologists localize lesions in CXR images, with extra consideration on the deployment targeted for mobile devices.</em></p>
     <div style="display: flex; gap: 10px;">
-      <a href="https://arxiv.org/abs/2404.00549" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Preprint</a>
-      <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Code</a>
+      <a href="https://arxiv.org/abs/2404.00549" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">PDF</a>
+    </div>
+<div style="margin-bottom: 40px; text-align: center;">
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://Xpeng1999.github.io/images/paper3_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
+      The feature visualization results
     </div>
   </div>
-  <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Project Image" style="width: 300px; margin-top: 20px; height: auto;">
+
+  <div style="display: inline-block; text-align: center; margin-top: 40px;">
+    <img src="https://Xpeng1999.github.io/images/paper3_image2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
+      Comparison of Score-CAM results and radiologists' annotations. The first and third rows show the CXR annotations for MPP lesions, while the second and fourth rows display the corresponding Score-CAM results.
+    </div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-top: 40px;">
+    <img src="https://Xpeng1999.github.io/images/toc2.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
+      PneumoniaApp demo user interface example
+    </div>
+  </div>
 </div>
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
-    <h3><a href="https://link.springer.com/article/10.1007/s10812-021-01220-5" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
+    <h3><a href="https://doi.org/10.1007/s10812-021-01220-5" target="_blank" style="text-decoration: none; color: rgb(102, 8, 116);">
     Intelligent proximate analysis of coal based on near-infrared spectroscopy
     </a></h3>
     <p>Weinan Liu, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng</span></strong>, Xiaoyu Liu, et al.</p>
     <p><em>Journal of Applied Spectroscopy (2021)</em></p>
-    <p><em>摘要：本研究基于近红外光谱技术对煤炭的智能近似分析，旨在提高煤炭质量评估的效率和准确性。</em></p>
+    <p><em>The proximate analysis of coal, which aims to estimate the moisture, volatile matter, and caloric value, is of great importance for coal processing and evaluation. However, traditional methods for proximate analysis in the laboratory are not only time-consuming and labor-intensive but also expensive. The near-infrared spectroscopy (NIRS) technique provides a rapid and nondestructive method for coal proximate analysis. We exploit two regression methods, random forest (RF) and extreme learning machine (ELM), to model the relationships among spectral data and proximate analysis parameters. In addition, given the poor stability and robustness caused by the random selection of parameters in ELM, we employ the particle swarm optimization algorithm (PSO) to optimize the structure of ELM (PSO–ELM). A total of 384 coal samples from Inner Mongolia are collected for model training and validation. The experimental results show that the proposed PSO–ELM algorithm achieves the best performance in terms of accuracy and efﬁciency, which indicates that NIRS combined with PSO–ELM has signiﬁcant potential for accurate and rapid proximate analysis.</em></p>
     <div style="display: flex; gap: 10px;">
-      <a href="https://link.springer.com/article/10.1007/s10812-021-01220-5" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Publication</a>
-      <a href="#" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Code</a>
+      <a href="https://Xpeng1999.github.io/files/paper2.pdf" style="text-decoration: none; padding: 6px 12px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">Publication</a>
+    </div>
+  <div style="display: inline-block; text-align: center; margin-top: 40px;">
+    <img src="https://Xpeng1999.github.io/images/paper4_image1.png" alt="Publication Image" style="width: 700px; margin-top: 20px; height: auto;">
+    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif;">
+      Dataset perspective: a: spectrum of coal samples (features); b: ranking parameters (labels)
     </div>
   </div>
-  <img src="https://Xpeng1999.github.io/images/toc3.png" alt="Project Image" style="width: 300px; margin-top: 20px; height: auto;">
-</div>
