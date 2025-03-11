@@ -68,12 +68,46 @@ My long-term academic goal is capitalizing on combing optics and computing to de
 <div style="margin-bottom: 40px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); padding: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
     <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
+      Physical Embedding-Enhanced Conditional Diffusion Model for Aberration Correction in Microscopic Imaging
+    </h3>
+    <p>Boyuan Peng, Jiaju Chen, et al.</p>
+    <p><em>In progress</em></p>
+    <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; line-height: 1.8; text-align: justify;">
+      Microscopic imaging quality is significantly affected by optical aberrations, leading to blurred cell boundaries and loss of internal structures, which hinders downstream tasks such as cell segmentation. Traditional hardware-based aberration correction is costly and requires specialized equipment, while CNN-based software solutions struggle to recover images affected by complex aberrations due to their reliance on local feature extraction. In this study, we propose a <strong>Physical Embedding-Enhanced Conditional Diffusion Model (PE-CDM)</strong>, which incorporates the point spread function (PSF) as an optical prior to guide the image restoration process. Unlike GANs, which suffer from instability and artifacts, the proposed method leverages a stepwise denoising process that effectively reconstructs clear images while preserving global structures and fine details. Experimental results demonstrate that PE-CDM outperforms Diffusion, GANs, and DFCAN in terms of PSNR and SSIM, particularly under high-aberration conditions. The integration of PSF as a physical constraint improves restoration accuracy, enhances model interpretability, and reduces dependence on large training datasets. This study highlights the potential of diffusion models for aberration correction in microscopic imaging, providing a cost-effective and adaptive solution for diverse experimental conditions.
+    </p>
+  </div>
+
+  <!-- Single Image Display: Aberration Correction Process -->
+  <div style="margin-top: 20px; text-align: center;">
+    <div style="background: #f9f9f9; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+      <img src="https://Xpeng1999.github.io/images/conditional_diffusion_process.png" alt="Conditional Diffusion Model Aberration Correction Process" style="width: 100%; max-width: 500px; height: auto;">
+      <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
+        Workflow of Conditional Diffusion Model (PE-CDM) for Aberration Correction
+      </div>
+    </div>
+  </div>
+
+  <!-- Single Image Display: Model Comparison Results -->
+  <div style="margin-top: 20px; text-align: center;">
+    <div style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+      <img src="https://Xpeng1999.github.io/images/bt474_comparison.png" alt="Aberration Correction Results Comparison for BT474 Cells" style="width: 100%; max-width: 500px; height: auto;">
+      <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
+        Comparison of Aberration Correction Results for BT474 Cells Using Different Models
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 40px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); padding: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
+    <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
       Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
     </h3>
     <p>Jiaju Chen*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Yiwei Zhang*, et al.</p>
     <p><em>In progress</em></p>
     <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; line-height: 1.8; text-align: justify;">
-      This project addresses the inefficiency of using separate devices for fundus imaging and refractive measurements. By redesigning the optical system with components like dichroic mirrors, we integrated these two functions into a single device. The shared optical path enables simultaneous retinal imaging and refractive index measurement, streamlining the examination process. Additionally, the system includes an automatic focusing mechanism that adjusts based on refractive data, enhancing ease of use. This integrated approach simplifies the workflow and reduces equipment requirements, making it more practical for clinical applications.
+      This project addresses the inefficiency of using separate devices for fundus imaging and refractive measurements. By redesigning the optical system with components like dichroic mirrors, we integrated these two functions into a single device. The shared optical path enables simultaneous retinal imaging and refractive index measurement, streamlining the examination process. Additionally, the system includes an automatic focusing mechanism that adjusts based on fundus image, enhancing ease of use. This integrated approach simplifies the workflow and reduces equipment requirements, making it more practical for clinical applications.
     </p>
   </div>
 
