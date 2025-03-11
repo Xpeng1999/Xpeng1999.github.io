@@ -80,7 +80,7 @@ My long-term academic goal is capitalizing on combing optics and computing to de
   <!-- Single Image Display: Aberration Correction Process -->
   <div style="margin-top: 20px; text-align: center;">
     <div style="background: #f9f9f9; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
-      <img src="https://Xpeng1999.github.io/images/conditional_diffusion_process.png" alt="Conditional Diffusion Model Aberration Correction Process" style="width: 100%; max-width: 500px; height: auto;">
+      <img src="https://Xpeng1999.github.io/images/conditional_diffusion_process.jpg" alt="Conditional Diffusion Model Aberration Correction Process" style="width: 100%; max-width: 500px; height: auto;">
       <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
         Workflow of Conditional Diffusion Model (PE-CDM) for Aberration Correction
       </div>
