@@ -12,7 +12,6 @@ I am a master's student of Biomedical Engineering at Tsinghua University, advise
 Prior to that, I completed my bachelor’s in Electronic and Information Engineering at China University of Mining and Technology, where I worked with 
 <a href="https://faculty.cumt.edu.cn/LM123456789101112/zh_CN/index/167772/list/" style="color: rgb(102, 8, 116);">Prof.Meng Lei</a>.
 
-My long-term academic goal is capitalizing on combing optics and computing to develop advanced imaging technologies, such as adaptive optics, super-resolution microscopy, computational image reconstruction and machine learning-based denoising. They can not only mitigate noise of biological images, but also accelerate the processes of acquiring results; thus it can help researchers get high-resolution tissue or cell images without time-consuming processes.
 
 ## News
 
