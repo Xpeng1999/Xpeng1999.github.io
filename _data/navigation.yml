@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: "https://xpeng1999.github.io/files/CV.pdf"
-
-  - title: "Preprint"
+  - title: "Preprint_Diagnosis of Pneumonia"
     url: "https://xpeng1999.github.io/files/Convolutional neural networks for rapid diagnosis and lesion detection of pediatric mycoplasma pneumoniae pneumonia using chest X-rays.pdf"
+
+  - title: "Preprint_Ophthalmic Optical Equipment"
+    url: "https://xpeng1999.github.io/files/preprint0413.pdf"
