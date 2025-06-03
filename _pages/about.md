@@ -108,6 +108,8 @@ Prior to that, I completed my bachelor’s in Electronic and Information Enginee
     <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; line-height: 1.8; text-align: justify;">
       The growing burden of myopia and retinal diseases necessitates more accessible and efficient eye screening solutions. This study presents a compact, dual-function optical device that integrates fundus photography and refractive error detection into a unified platform. The system features a coaxial optical design using dichroic mirrors to separate wavelength-dependent imaging paths, enabling simultaneous alignment of fundus and refraction modules. A Dense-U-Net-based algorithm with customized loss functions is employed for accurate pupil segmentation, facilitating automated alignment and focusing. Experimental evaluations demonstrate the system's capability to achieve high-precision pupil localization (EDE = 2.8 px, mIoU = 0.931) and reliable refractive estimation with a mean absolute error below 5%. Despite limitations due to commercial lens components, the proposed framework offers a promising solution for rapid, intelligent, and scalable ophthalmic screening, particularly suitable for community health settings.
     </p>
+      <div style="display: flex; gap: 12px; margin-top: 20px;">
+        <a href="https://arxiv.org/pdf/2504.18549" style="text-decoration: none; padding: 8px 16px; background-color: rgb(102, 8, 116); color: white; border-radius: 4px;">PDF</a>
   </div>
 
   <!-- 单张图片展示 -->
