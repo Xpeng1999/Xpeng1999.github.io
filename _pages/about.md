@@ -101,32 +101,28 @@ Prior to that, I completed my bachelor’s in Electronic and Information Enginee
 <div style="margin-bottom: 40px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); padding: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
     <h3 style="text-decoration: none; color: rgb(102, 8, 116);">
-      Multimodal Myopia Screening: An Integrated Device for Fundus Imaging and Refractive Error Detection
+      Dual-Modality Computational Ophthalmic Imaging with Deep Learning and Coaxial Optical Design
     </h3>
-    <p>Jiaju Chen*, <strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Yiwei Zhang*, et al.</p>
+    <p><strong><span style="color: rgb(102, 8, 116);">Boyuan Peng*</span></strong>, Jiaju Chen*, Yiwei Zhang*, Cuiyi Peng et al.</p>
     <p><em>In progress</em></p>
     <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; line-height: 1.8; text-align: justify;">
-      This project addresses the inefficiency of using separate devices for fundus imaging and refractive measurements. By redesigning the optical system with components like dichroic mirrors, we integrated these two functions into a single device. The shared optical path enables simultaneous retinal imaging and refractive index measurement, streamlining the examination process. Additionally, the system includes an automatic focusing mechanism that adjusts based on fundus image, enhancing ease of use. This integrated approach simplifies the workflow and reduces equipment requirements, making it more practical for clinical applications.
+      The growing burden of myopia and retinal diseases necessitates more accessible and efficient eye screening solutions. This study presents a compact, dual-function optical device that integrates fundus photography and refractive error detection into a unified platform. The system features a coaxial optical design using dichroic mirrors to separate wavelength-dependent imaging paths, enabling simultaneous alignment of fundus and refraction modules. A Dense-U-Net-based algorithm with customized loss functions is employed for accurate pupil segmentation, facilitating automated alignment and focusing. Experimental evaluations demonstrate the system's capability to achieve high-precision pupil localization (EDE = 2.8 px, mIoU = 0.931) and reliable refractive estimation with a mean absolute error below 5%. Despite limitations due to commercial lens components, the proposed framework offers a promising solution for rapid, intelligent, and scalable ophthalmic screening, particularly suitable for community health settings.
     </p>
-  </div>
-
-  <!-- 插入静音视频 -->
-  <div style="margin-top: 20px; text-align: center;">
-    <video width="600" controls muted style="border-radius: 8px; border: 1px solid #e0e0e0;">
-      <source src="https://Xpeng1999.github.io/images/paper2_video1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="margin-top: 10px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
-      Demonstration video: Using two-in-one optical system to measure diopter
-    </div>
   </div>
 
   <!-- 单张图片展示 -->
   <div style="margin-top: 20px; text-align: center;">
     <div style="background: #f9f9f9; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
-      <img src="https://Xpeng1999.github.io/images/paper2_image1.png" alt="Publication Image" style="width: 100%; max-width: 500px; height: auto;">
+      <img src="https://Xpeng1999.github.io/images/paper2_figure1a.png" alt="Publication Image" style="width: 100%; max-width: 500px; height: auto;">
       <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
-        Structure of retina fundus imaging and ocular refractive index two-in-one optical system
+        Construction of fundus imaging
+      </div>
+    </div>
+      <div style="margin-top: 20px; text-align: center;">
+    <div style="background: #f9f9f9; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+      <img src="https://Xpeng1999.github.io/images/paper2_figure1b.png" alt="Publication Image" style="width: 100%; max-width: 500px; height: auto;">
+      <div style="margin-top: 12px; font-family: 'Times New Roman', Times, serif; font-size: 14px; color: #555;">
+        Construction of Refraction optical paths
       </div>
     </div>
     <div style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
