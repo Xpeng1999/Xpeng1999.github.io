@@ -6,7 +6,8 @@
 .figure-frame img { display:block; width:100%; height:auto; }
 .project-context { color:#716877; font-size:12px; }
 .institution-logo { display:block; width:96px; height:96px; object-fit:contain; }
-.tsinghua-logo { object-fit:cover; }
+/* Match visible emblem diameters; the Tsinghua source has a larger white margin. */
+.tsinghua-logo { object-fit:cover; object-position:48.25% 50%; transform:scale(1.245); }
 .project-keywords { display:flex; flex-wrap:wrap; gap:5px; padding:0; margin:12px 0; list-style:none; }
 .project-keywords li { padding:3px 7px; border:1px solid #dedede; border-radius:4px; background:#fff; color:#4b4b4b; font-size:11px; }
 .demo-caption { display:block; text-align:center; font-size:10px; color:#6b626e; }
