@@ -26,7 +26,7 @@ redirect_from:
           <tr style="padding:0px">
             <td class="intro-copy" style="padding:2.5%;width:68%;vertical-align:middle">
               <p style="text-align:center">
-                <name>Boyuan Peng<span id="astronaut-btn" style="cursor: pointer; margin-left: 5px;" title="Copy bio">🧑‍🚀</span></name>
+                <name>Boyuan Peng</name>
               </p>
             <p>
               I received my M.S. in Electronic and Information Engineering from
@@ -305,12 +305,6 @@ redirect_from:
               });
             }
 
-            // 复制简介功能
-            document.getElementById('astronaut-btn').addEventListener('click', function(e) {
-              const text = "Boyuan Peng received his M.S. in Electronic and Information Engineering from Tsinghua University in 2025. His research connects multimodal AI, generative modeling and computational imaging.";
-              copyText(text, e);
-            });
-
             document.getElementById('email-copy').addEventListener('click', function(e) {
               e.preventDefault();
               copyText('pengby99@outlook.com', e);
@@ -321,7 +315,7 @@ redirect_from:
           <tr id="mundisense" data-tags="multimodal,reliable" style="background-color:#f2e5f6;">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="https://xpeng1999.github.io/MundiSense_v1/#demo" title="Watch the full MundiSense demo"><img id="mundi-animation" src="assets/homepage/mundisense-demo-poster.jpg" width="190" height="107" alt="Actual MundiSense demo excerpt: an EmotionTalk speaker and recorded audio-visual model predictions."></a>
+                <a class="figure-frame" href="https://xpeng1999.github.io/MundiSense_v1/#demo" title="Watch the full MundiSense demo"><img id="mundi-animation" src="assets/homepage/mundisense-demo-poster.jpg" width="190" height="107" alt="Actual MundiSense demo excerpt: an EmotionTalk speaker and recorded audio-visual model predictions."></a>
                   <button id="motion-toggle" type="button" aria-pressed="true">Play animation</button>
                   <span class="demo-caption">Demo excerpt · recorded replay</span>
               </div>
@@ -343,7 +337,7 @@ redirect_from:
           <tr id="cell-segmentation" data-tags="reliable,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="assets/homepage/figures/cell-segmentation.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/cell-segmentation.jpg" width="190" height="143" loading="lazy" alt="Illustration of microscopy, optical aberrations, PSF guidance and cell instance segmentation."></a>
+                <a class="figure-frame" href="assets/homepage/figures/cell-segmentation.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/cell-segmentation.jpg" width="190" height="143" loading="lazy" alt="Illustration of microscopy, optical aberrations, PSF guidance and cell instance segmentation."></a>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -363,7 +357,7 @@ redirect_from:
           <tr id="psf-diffusion" data-tags="generative,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="assets/homepage/figures/psf-diffusion.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/psf-diffusion.jpg" width="190" height="143" loading="lazy" alt="Illustration of PSF-conditioned diffusion for restoration of aberrated microscopy images."></a>
+                <a class="figure-frame" href="assets/homepage/figures/psf-diffusion.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/psf-diffusion.jpg" width="190" height="143" loading="lazy" alt="Illustration of PSF-conditioned diffusion for restoration of aberrated microscopy images."></a>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -383,7 +377,7 @@ redirect_from:
           <tr id="ophthalmic" data-tags="multimodal,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="assets/homepage/figures/dual-modality-ophthalmic.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/dual-modality-ophthalmic.jpg" width="190" height="143" loading="lazy" alt="Illustration of coaxial ophthalmic optics, fundus and refractive imaging, alignment and image fusion."></a>
+                <a class="figure-frame" href="assets/homepage/figures/dual-modality-ophthalmic.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/dual-modality-ophthalmic.jpg" width="190" height="143" loading="lazy" alt="Illustration of coaxial ophthalmic optics, fundus and refractive imaging, alignment and image fusion."></a>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -403,7 +397,7 @@ redirect_from:
           <tr id="pneumonia" data-tags="reliable">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="assets/homepage/figures/pediatric-pneumonia.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/pediatric-pneumonia.jpg" width="190" height="143" loading="lazy" alt="Illustration of chest X-ray classification with ConvNeXt-Tiny and Score-CAM attribution."></a>
+                <a class="figure-frame" href="assets/homepage/figures/pediatric-pneumonia.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/pediatric-pneumonia.jpg" width="190" height="143" loading="lazy" alt="Illustration of chest X-ray classification with ConvNeXt-Tiny and Score-CAM attribution."></a>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -423,7 +417,7 @@ redirect_from:
           <tr id="coal" data-tags="scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <a href="assets/homepage/figures/coal-nirs.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/coal-nirs.jpg" width="190" height="143" loading="lazy" alt="Illustration of near-infrared coal spectroscopy and PSO–ELM prediction of material properties."></a>
+                <a class="figure-frame" href="assets/homepage/figures/coal-nirs.jpg" target="_blank" rel="noopener" title="View full-size project illustration"><img class="project-figure" src="assets/homepage/figures/coal-nirs.jpg" width="190" height="143" loading="lazy" alt="Illustration of near-infrared coal spectroscopy and PSO–ELM prediction of material properties."></a>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
