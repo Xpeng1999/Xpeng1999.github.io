@@ -1,0 +1,163 @@
+[
+  {
+    "id": "mundisense",
+    "tag": "multimodal,reliable",
+    "year": "2026 · Research release",
+    "title": "MundiSense v1: Audio-visual emotion perception",
+    "authors": "<strong>Boyuan Peng</strong> · Mundiscope",
+    "desc": "Recognizing observable emotional expression in Chinese speech and facial video. A Qwen2.5-Omni multimodal LLM adapted with LoRA works with HuBERT audio and CLIP visual specialists, followed by frozen fusion, calibration and abstention rules.",
+    "note": "EmotionTalk R3: macro-F1 0.645 on 1,929 utterances, without threshold rejection. Research system; expression estimates do not establish a person’s inner state.",
+    "links": [
+      [
+        "Project",
+        "https://xpeng1999.github.io/MundiSense_v1/"
+      ],
+      [
+        "Demo",
+        "https://xpeng1999.github.io/MundiSense_v1/#demo"
+      ],
+      [
+        "Report",
+        "https://xpeng1999.github.io/MundiSense_v1/report/technical_report.html"
+      ],
+      [
+        "Code",
+        "https://github.com/Xpeng1999/MundiSense_v1"
+      ]
+    ],
+    "keywords": [
+      "Multimodal LLMs",
+      "LoRA Fine-tuning",
+      "Audio-Visual Fusion",
+      "Uncertainty Calibration"
+    ]
+  },
+  {
+    "id": "cell-segmentation",
+    "tag": "reliable,scientific",
+    "year": "2024 · Computational and Structural Biotechnology Journal",
+    "title": "Practical guidelines for cell segmentation models under optical aberrations in microscopy",
+    "authors": "<strong>Boyuan Peng†</strong>, Jiaju Chen†, P. Bilha Githinji†, Ijaz Gul, et al.",
+    "desc": "A robustness benchmark for cell instance segmentation under simulated optical aberrations in fluorescence and bright-field microscopy. The study compares segmentation architectures and Cellpose 2.0, and introduces PLCM to identify aberration properties from point spread functions.",
+    "note": "DynamicNuclearNet + LIVECell · Optical priors · Model-selection guidelines",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1016/j.csbj.2024.09.002"
+      ],
+      [
+        "PDF",
+        "https://xpeng1999.github.io/files/paper1.pdf"
+      ],
+      [
+        "Code",
+        "https://github.com/Xpeng1999/Cell-Segmentation-Robustness"
+      ]
+    ],
+    "keywords": [
+      "Robustness Benchmarking",
+      "Distribution Shift",
+      "Cell Instance Segmentation",
+      "Optical Priors"
+    ],
+    "figure": "cell-segmentation.jpg",
+    "figure_alt": "Illustration of microscopy, optical aberrations, PSF guidance and cell instance segmentation.",
+    "figure_source": "figures/01.png"
+  },
+  {
+    "id": "psf-diffusion",
+    "tag": "generative,scientific",
+    "year": "Research project",
+    "title": "PSF-guided conditional diffusion for microscopy aberration correction",
+    "authors": "<strong>Boyuan Peng</strong>, Jiaju Chen, et al.",
+    "desc": "Exploring point spread functions as physical conditioning for diffusion-based restoration of aberrated microscopy images. The goal is to recover cellular structure and boundaries while incorporating knowledge of the optical imaging process.",
+    "note": "Physical embedding · Conditional diffusion · Microscopy restoration",
+    "links": [],
+    "keywords": [
+      "Diffusion Models",
+      "Physics-Guided Generative AI",
+      "Conditional Image Restoration"
+    ],
+    "figure": "psf-diffusion.jpg",
+    "figure_alt": "Illustration of PSF-conditioned diffusion for restoration of aberrated microscopy images.",
+    "figure_source": "figures/07.png"
+  },
+  {
+    "id": "ophthalmic",
+    "tag": "multimodal,scientific",
+    "year": "2025 · arXiv preprint",
+    "title": "Dual-Modality Computational Ophthalmic Imaging with Deep Learning and Coaxial Optical Design",
+    "authors": "<strong>Boyuan Peng†</strong>, Jiaju Chen†, Yiwei Zhang†, Cuiyi Peng, et al.",
+    "desc": "A coaxial optical platform combines fundus imaging and refractive sensing. Learning-based pupil localization supports alignment, while retinal vessel segmentation and multimodal learning connect optical measurements with ophthalmic screening research.",
+    "note": "Coaxial optics · Automated alignment · Retinal vessel analysis",
+    "links": [
+      [
+        "Preprint",
+        "https://arxiv.org/abs/2504.18549"
+      ],
+      [
+        "PDF",
+        "https://arxiv.org/pdf/2504.18549"
+      ]
+    ],
+    "keywords": [
+      "Multimodal Learning",
+      "Medical Image Segmentation",
+      "Learning-Assisted Optics"
+    ],
+    "figure": "dual-modality-ophthalmic.jpg",
+    "figure_alt": "Illustration of coaxial ophthalmic optics, fundus and refractive imaging, alignment and image fusion.",
+    "figure_source": "figures/04.png"
+  },
+  {
+    "id": "pneumonia",
+    "tag": "reliable",
+    "year": "Research manuscript",
+    "title": "Convolutional neural networks for rapid diagnosis and lesion detection of pediatric mycoplasma pneumoniae pneumonia using chest X-rays",
+    "authors": "Jiaming Deng†, Danqing Yu†, <strong>Boyuan Peng†</strong>, Dongmei Yu†, et al.",
+    "desc": "ConvNeXt-Tiny distinguishes mycoplasma, bacterial and viral pneumonia from normal pediatric chest X-rays. Score-CAM highlights regions associated with model predictions, with an Android application prototype for exploring results.",
+    "note": "Reported test accuracy: 88.20% · AUROC: 0.9218 · Four-class research evaluation",
+    "links": [
+      [
+        "PDF",
+        "https://xpeng1999.github.io/files/Convolutional%20neural%20networks%20for%20rapid%20diagnosis%20and%20lesion%20detection%20of%20pediatric%20mycoplasma%20pneumoniae%20pneumonia%20using%20chest%20X-rays.pdf"
+      ]
+    ],
+    "keywords": [
+      "Explainable AI",
+      "ConvNeXt",
+      "Medical Image Classification",
+      "Model Attribution"
+    ],
+    "figure": "pediatric-pneumonia.jpg",
+    "figure_alt": "Illustration of chest X-ray classification with ConvNeXt-Tiny and Score-CAM attribution.",
+    "figure_source": "figures/03.png"
+  },
+  {
+    "id": "coal",
+    "tag": "scientific",
+    "year": "2021 · Journal of Applied Spectroscopy",
+    "title": "Intelligent proximate analysis of coal based on near-infrared spectroscopy",
+    "authors": "Weinan Liu, <strong>Boyuan Peng</strong>, Xiaoyu Liu, et al.",
+    "desc": "Near-infrared spectra provide a rapid, nondestructive route to estimating moisture, volatile matter and calorific value. The study compares random forests, extreme learning machines and particle-swarm-optimized ELM regression.",
+    "note": "Near-infrared spectroscopy · PSO–ELM · Material characterization",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1007/s10812-021-01220-5"
+      ],
+      [
+        "PDF",
+        "https://xpeng1999.github.io/files/paper2.pdf"
+      ]
+    ],
+    "keywords": [
+      "Scientific Machine Learning",
+      "Spectral Regression",
+      "Swarm Optimization"
+    ],
+    "figure": "coal-nirs.jpg",
+    "figure_alt": "Illustration of near-infrared coal spectroscopy and PSO–ELM prediction of material properties.",
+    "figure_source": "figures/02.png"
+  }
+]
