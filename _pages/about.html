@@ -17,14 +17,6 @@ redirect_from:
   <script src="assets/homepage/custom.js" defer></script>
   <meta name="description" content="Boyuan Peng: computational imaging, biomedical engineering and multimodal AI.">
   <link rel="icon" type="image/svg+xml" href="assets/homepage/favicon.svg">
-  <style>
-    body, * {
-      cursor: url('images/icon/cursor.png'), auto;
-    }
-    a, a * {
-      cursor: url('images/icon/cursor-pointer.png'), pointer !important;
-    }
-  </style>
 </head>
 <body>
   <table id="about" class="page-section" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -37,15 +29,15 @@ redirect_from:
                 <name>Boyuan Peng<span id="astronaut-btn" style="cursor: pointer; margin-left: 5px;" title="Copy bio">🧑‍🚀</span></name>
               </p>
             <p>
-              I received my M.S. in Biomedical Engineering from
+              I received my M.S. in Electronic and Information Engineering from
               <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a> in 2025,
               advised by Prof. <a href="https://scholar.google.com/citations?user=yD3IOXkAAAAJ&amp;hl=en">Peiwu Qin</a>.
               Previously, I earned my B.E. in Electronic and Information Engineering at
               China University of Mining and Technology.
             </p>
             <p>
-              My research connects computational optics and machine learning, including
-              biomedical imaging, microscopy restoration, and multimodal perception.
+              My research connects multimodal AI, generative modeling and computational imaging,
+              including audio-visual perception, physics-guided image restoration and reliable biomedical AI.
               My latest project, <a href="https://xpeng1999.github.io/MundiSense_v1/">MundiSense v1</a>,
               studies observable emotional expression in speech and facial video, with explicit uncertainty.
             </p>
@@ -113,7 +105,7 @@ redirect_from:
                 </li>
               </P>
 			  <P>
-                <li class="news-entry"><span class="news-date-badge">Jun. 2025</span> I completed my M.S. in Biomedical Engineering at <span class="news-highlight">Tsinghua University</span>.
+                <li class="news-entry"><span class="news-date-badge">Jun. 2025</span> I completed my M.S. in Electronic and Information Engineering at <span class="news-highlight">Tsinghua University</span>.
                 </li>
               </P>
               <P>
@@ -195,7 +187,7 @@ redirect_from:
               border-right: 1px solid rgba(0, 0, 0, 0.14);
               border-radius: 0 8px 8px 0;
             }
-            .publications-table tr[data-tags][style*="#f2e5f6"] > td {
+            .publications-table tr#mundisense > td {
               background: #f2e5f6;
             }
 
@@ -224,10 +216,10 @@ redirect_from:
           
           <div class="tag-filter" id="tagFilter">
             <button class="tag-btn active" data-tag="all" aria-pressed="true">All</button>
-            <button class="tag-btn" data-tag="multimodal" aria-pressed="false">Multimodal</button>
-            <button class="tag-btn" data-tag="imaging" aria-pressed="false">Microscopy</button>
-            <button class="tag-btn" data-tag="medical" aria-pressed="false">Medical</button>
-            <button class="tag-btn" data-tag="spectroscopy" aria-pressed="false">Spectroscopy</button>
+            <button class="tag-btn" data-tag="multimodal" aria-pressed="false">Multimodal AI</button>
+            <button class="tag-btn" data-tag="generative" aria-pressed="false">Generative AI</button>
+            <button class="tag-btn" data-tag="reliable" aria-pressed="false">Reliable AI</button>
+            <button class="tag-btn" data-tag="scientific" aria-pressed="false">Scientific ML</button>
           </div>
 
           <script>
@@ -292,7 +284,7 @@ redirect_from:
 
             // 复制简介功能
             document.getElementById('astronaut-btn').addEventListener('click', function(e) {
-              const text = "Boyuan Peng received his M.S. in Biomedical Engineering from Tsinghua University in 2025. His research connects computational optics, biomedical imaging and multimodal machine learning.";
+              const text = "Boyuan Peng received his M.S. in Electronic and Information Engineering from Tsinghua University in 2025. His research connects multimodal AI, generative modeling and computational imaging.";
               copyText(text, e);
             });
 
@@ -303,11 +295,12 @@ redirect_from:
             
           </script>
 
-          <tr id="mundisense" data-tags="multimodal" style="background-color:#f2e5f6;">
+          <tr id="mundisense" data-tags="multimodal,reliable" style="background-color:#f2e5f6;">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
-                <img id="mundi-animation" src="assets/homepage/mundisense.svg" width="190" alt="MundiSense architecture schematic: voice and face video, three models, fusion and abstention.">
-                  <button id="motion-toggle" type="button" aria-pressed="false">Pause animation</button>
+                <a href="https://xpeng1999.github.io/MundiSense_v1/#demo" title="Watch the full MundiSense demo"><img id="mundi-animation" src="assets/homepage/mundisense-demo-poster.jpg" width="190" height="107" alt="Actual MundiSense demo excerpt: an EmotionTalk speaker and recorded audio-visual model predictions."></a>
+                  <button id="motion-toggle" type="button" aria-pressed="true">Play animation</button>
+                  <span class="demo-caption">Demo excerpt · recorded replay</span>
               </div>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -319,11 +312,12 @@ redirect_from:
               <br>
               <em><strong>2026 · Research release</strong></em>
               <p></p>
-              <p>Recognizing observable emotional expression in Chinese speech and facial video. A task-adapted Qwen2.5-Omni model works with audio and visual specialists, followed by frozen fusion, calibration and abstention rules.</p>
+              <p>Recognizing observable emotional expression in Chinese speech and facial video. A Qwen2.5-Omni multimodal LLM adapted with LoRA works with HuBERT audio and CLIP visual specialists, followed by frozen fusion, calibration and abstention rules.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Multimodal LLMs</li><li>LoRA Fine-tuning</li><li>Audio-Visual Fusion</li><li>Uncertainty Calibration</li></ul>
               <p class="project-context">EmotionTalk R3: macro-F1 0.645 on 1,929 utterances, without threshold rejection. Research system; expression estimates do not establish a person’s inner state.</p>
             </td>
           </tr>
-          <tr id="cell-segmentation" data-tags="imaging">
+          <tr id="cell-segmentation" data-tags="reliable,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
                 <div class="figure-placeholder" role="img" aria-label="Illustration to be added for Practical guidelines for cell segmentation models under optical aberrations in microscopy"></div>
@@ -339,10 +333,11 @@ redirect_from:
               <em><strong>2024 · Computational and Structural Biotechnology Journal</strong></em>
               <p></p>
               <p>A robustness benchmark for cell instance segmentation under simulated optical aberrations in fluorescence and bright-field microscopy. The study compares segmentation architectures and Cellpose 2.0, and introduces PLCM to identify aberration properties from point spread functions.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Robustness Benchmarking</li><li>Distribution Shift</li><li>Cell Instance Segmentation</li><li>Optical Priors</li></ul>
               <p class="project-context">DynamicNuclearNet + LIVECell · Optical priors · Model-selection guidelines</p>
             </td>
           </tr>
-          <tr id="psf-diffusion" data-tags="imaging">
+          <tr id="psf-diffusion" data-tags="generative,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
                 <div class="figure-placeholder" role="img" aria-label="Illustration to be added for PSF-guided conditional diffusion for microscopy aberration correction"></div>
@@ -358,10 +353,11 @@ redirect_from:
               <em><strong>Research project</strong></em>
               <p></p>
               <p>Exploring point spread functions as physical conditioning for diffusion-based restoration of aberrated microscopy images. The goal is to recover cellular structure and boundaries while incorporating knowledge of the optical imaging process.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Diffusion Models</li><li>Physics-Guided Generative AI</li><li>Conditional Image Restoration</li></ul>
               <p class="project-context">Physical embedding · Conditional diffusion · Microscopy restoration</p>
             </td>
           </tr>
-          <tr id="ophthalmic" data-tags="medical">
+          <tr id="ophthalmic" data-tags="multimodal,scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
                 <div class="figure-placeholder" role="img" aria-label="Illustration to be added for Dual-Modality Computational Ophthalmic Imaging with Deep Learning and Coaxial Optical Design"></div>
@@ -377,10 +373,11 @@ redirect_from:
               <em><strong>2025 · arXiv preprint</strong></em>
               <p></p>
               <p>A coaxial optical platform combines fundus imaging and refractive sensing. Learning-based pupil localization supports alignment, while retinal vessel segmentation and multimodal learning connect optical measurements with ophthalmic screening research.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Multimodal Learning</li><li>Medical Image Segmentation</li><li>Learning-Assisted Optics</li></ul>
               <p class="project-context">Coaxial optics · Automated alignment · Retinal vessel analysis</p>
             </td>
           </tr>
-          <tr id="pneumonia" data-tags="medical">
+          <tr id="pneumonia" data-tags="reliable">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
                 <div class="figure-placeholder" role="img" aria-label="Illustration to be added for Convolutional neural networks for rapid diagnosis and lesion detection of pediatric mycoplasma pneumoniae pneumonia using chest X-rays"></div>
@@ -396,10 +393,11 @@ redirect_from:
               <em><strong>Research manuscript</strong></em>
               <p></p>
               <p>ConvNeXt-Tiny distinguishes mycoplasma, bacterial and viral pneumonia from normal pediatric chest X-rays. Score-CAM highlights regions associated with model predictions, with an Android application prototype for exploring results.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Explainable AI</li><li>ConvNeXt</li><li>Medical Image Classification</li><li>Model Attribution</li></ul>
               <p class="project-context">Reported test accuracy: 88.20% · AUROC: 0.9218 · Four-class research evaluation</p>
             </td>
           </tr>
-          <tr id="coal" data-tags="spectroscopy">
+          <tr id="coal" data-tags="scientific">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <div class="one">
                 <div class="figure-placeholder" role="img" aria-label="Illustration to be added for Intelligent proximate analysis of coal based on near-infrared spectroscopy"></div>
@@ -415,6 +413,7 @@ redirect_from:
               <em><strong>2021 · Journal of Applied Spectroscopy</strong></em>
               <p></p>
               <p>Near-infrared spectra provide a rapid, nondestructive route to estimating moisture, volatile matter and calorific value. The study compares random forests, extreme learning machines and particle-swarm-optimized ELM regression.</p>
+              <ul class="project-keywords" aria-label="Project keywords"><li>Scientific Machine Learning</li><li>Spectral Regression</li><li>Swarm Optimization</li></ul>
               <p class="project-context">Near-infrared spectroscopy · PSO–ELM · Material characterization</p>
             </td>
           </tr>
@@ -499,21 +498,21 @@ redirect_from:
 	          })();
 	        </script>
 
-	        <table id="experience" class="page-section" width="100%" align="center" border="0" cellpadding="10"><tbody>
+	        <table id="education" class="page-section" width="100%" align="center" border="0" cellpadding="10"><tbody>
           <br>
-              <heading>Experience</heading>
+              <heading>Education</heading>
           <br>
           <tr>
-            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><span class="institution-label">THU</span></td>
+            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><a href="https://www.tsinghua.edu.cn/en/"><img class="institution-logo tsinghua-logo" src="assets/homepage/tsinghua-emblem.jpg" width="96" height="96" alt="Tsinghua University emblem"></a></td>
             <td width="90%" valign="center">
               <strong>Tsinghua University</strong>
               <br> 2022.09 - 2025.06
-              <br> <strong>M.S. in Biomedical Engineering</strong>
+              <br> <strong>M.S. in Electronic and Information Engineering</strong>
               <br> Research Advisor: Prof. <a href="https://scholar.google.com/citations?user=yD3IOXkAAAAJ&amp;hl=en">Peiwu Qin</a>
             </td>
           </tr>
           <tr>
-            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><span class="institution-label">CUMT</span></td>
+            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><a href="https://www.cumt.edu.cn/"><img class="institution-logo" src="assets/homepage/cumt-emblem.jpg" width="96" height="96" alt="China University of Mining and Technology emblem"></a></td>
             <td width="90%" valign="center">
               <strong>China University of Mining and Technology</strong>
               <br> 2017.09 - 2021.06

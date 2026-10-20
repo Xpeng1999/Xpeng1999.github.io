@@ -5,7 +5,7 @@ if(motion&&animation){
   const media=matchMedia('(prefers-reduced-motion: reduce)');
   let paused=media.matches;
   const update=()=>{
-    animation.src=`assets/homepage/mundisense${paused?'-static':''}.svg`;
+    animation.src=`assets/homepage/mundisense-demo${paused?'-poster.jpg':'.gif'}`;
     motion.textContent=paused?'Play animation':'Pause animation';
     motion.setAttribute('aria-pressed',String(paused));
   };
