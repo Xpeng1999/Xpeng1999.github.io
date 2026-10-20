@@ -59,7 +59,10 @@
       "Distribution Shift",
       "Cell Instance Segmentation",
       "Optical Priors"
-    ]
+    ],
+    "figure": "cell-segmentation.jpg",
+    "figure_alt": "Illustration of microscopy, optical aberrations, PSF guidance and cell instance segmentation.",
+    "figure_source": "figures/01.png"
   },
   {
     "id": "psf-diffusion",
@@ -74,7 +77,10 @@
       "Diffusion Models",
       "Physics-Guided Generative AI",
       "Conditional Image Restoration"
-    ]
+    ],
+    "figure": "psf-diffusion.jpg",
+    "figure_alt": "Illustration of PSF-conditioned diffusion for restoration of aberrated microscopy images.",
+    "figure_source": "figures/07.png"
   },
   {
     "id": "ophthalmic",
@@ -98,7 +104,10 @@
       "Multimodal Learning",
       "Medical Image Segmentation",
       "Learning-Assisted Optics"
-    ]
+    ],
+    "figure": "dual-modality-ophthalmic.jpg",
+    "figure_alt": "Illustration of coaxial ophthalmic optics, fundus and refractive imaging, alignment and image fusion.",
+    "figure_source": "figures/04.png"
   },
   {
     "id": "pneumonia",
@@ -119,7 +128,10 @@
       "ConvNeXt",
       "Medical Image Classification",
       "Model Attribution"
-    ]
+    ],
+    "figure": "pediatric-pneumonia.jpg",
+    "figure_alt": "Illustration of chest X-ray classification with ConvNeXt-Tiny and Score-CAM attribution.",
+    "figure_source": "figures/03.png"
   },
   {
     "id": "coal",
@@ -143,6 +155,9 @@
       "Scientific Machine Learning",
       "Spectral Regression",
       "Swarm Optimization"
-    ]
+    ],
+    "figure": "coal-nirs.jpg",
+    "figure_alt": "Illustration of near-infrared coal spectroscopy and PSO–ELM prediction of material properties.",
+    "figure_source": "figures/02.png"
   }
 ]

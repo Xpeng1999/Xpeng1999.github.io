@@ -20,3 +20,21 @@ China University of Mining and Technology's official emblem announcement: https:
 Image: https://xxgk.cumt.edu.cn/_upload/article/a3/06/b497e39a44ab9f7136ed510e73be/bc53c786-d49a-4af9-be73-4673e938f957.jpg
 
 Original emblem files and colors are retained. CSS places them within the Education layout; they identify the two educational institutions.
+
+## Project illustrations provided by the owner
+
+| Source | Homepage project | Published asset |
+|---|---|---|
+| figures/01.png | Cell segmentation robustness | figures/cell-segmentation.jpg |
+| figures/02.png | Coal NIR spectroscopy | figures/coal-nirs.jpg |
+| figures/03.png | Pediatric pneumonia | figures/pediatric-pneumonia.jpg |
+| figures/04.png | Dual-modality ophthalmic imaging | figures/dual-modality-ophthalmic.jpg |
+| figures/07.png | PSF-guided diffusion | figures/psf-diffusion.jpg |
+
+Images are proportional 960px-wide JPEG exports, with no cropping, recoloring or added drawing. Original PNGs remain untouched. Figure 05 is an alternative view of the same ophthalmic project and is not displayed as a duplicate. Each thumbnail links to its larger image.
+
+## Pets
+
+The owner supplied the names, birth dates and descriptions: 66, born 2024-06-29, Ragdoll; 77, born 2026-08-10, golden and white. “Golden and white (bicolor)” describes coat coloration, not a confirmed breed.
+
+English terminology references: https://cfa.org/breed/ragdoll/ and https://www.gccfcats.org/getting-a-cat/choosing/cat-breeds/british/ . The latter discusses colors and bicolors; it is not evidence that 77 is a British Shorthair.
