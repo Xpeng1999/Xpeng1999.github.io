@@ -5,6 +5,9 @@
 .figure-frame:hover { border-color:#bac0ca; box-shadow:0 4px 16px rgba(30,35,45,.11); }
 .figure-frame img { display:block; width:100%; height:auto; }
 .project-context { color:#716877; font-size:12px; }
+.project-brand { display:inline-flex; align-items:center; gap:5px; vertical-align:middle; }
+.project-brand img { width:24px; height:24px; object-fit:contain; }
+.project-tagline { margin-bottom:0; font-weight:700; }
 .institution-logo { display:block; width:96px; height:96px; object-fit:contain; }
 /* Match visible emblem diameters; the Tsinghua source has a larger white margin. */
 .tsinghua-logo { object-fit:cover; object-position:48.25% 50%; transform:scale(1.245); }

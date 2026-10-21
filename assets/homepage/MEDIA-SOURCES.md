@@ -11,6 +11,12 @@ Chapter metadata: https://github.com/Xpeng1999/MundiSense_v1/blob/main/docs/demo
 
 The source demo replays saved model outputs with editorial presentation stages. Its architecture animation is schematic, not neural activations or inference timing. Source footage remains attributable to EmotionTalk and its original rights holders, as stated in the upstream demo README.
 
+## Mundiscope brand update · 21 October 2026
+
+`mundiscope-logo.png` is the unmodified logo from `Xpeng1999/MundiSense_v1`, commit `ac8568e357b9b8bda53942e73c6abaffdfe13df9`, path `docs/assets/brand/mundiscope-logo.png`. SHA-256: `62a2886f652937a5db90c752d9f1c0b4ad7898883b5322c34e367a1e4b19240c`. It accompanies the project attribution; the existing recorded-demo thumbnail remains the representative media.
+
+Project wording draws on the README, `docs/index.html` and `docs/report/technical_report.md` at that commit. The homepage distinguishes the implemented Sense layer from future memory and response directions. EmotionTalk R3 macro-F1 and CH-SIMS v2 sentiment correlation retain their separate populations and evaluation conditions.
+
 ## University emblems
 
 Tsinghua University's official visual-identity page: https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm
